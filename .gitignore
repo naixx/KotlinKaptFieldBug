@@ -1,0 +1,61 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+*/bin/
+*/gen/
+*/out/
+*/build/
+annotations/
+build
+
+# libraries for the Eclipse/Ant build system
+
+# Local configuration file (sdk path, etc)
+local.properties
+release.properties
+default.properties
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.DS_Store
+
+#Intelli J project files
+*.idea/
+*.iml
+*/gen-external-apklibs
+*.ipr
+*.iws
+
+#Maven project files
+*/target/
+
+#Maven release files
+*.releaseBackup
+*.versionsBackup
+
+#symoblic link to action bar sherlock
+library
+.apt_generated
+.classpath
+.project
+.classpath
+.project
+.gradle
+/screenshots
